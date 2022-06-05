@@ -1,3 +1,17 @@
 Visualizer for the worst sorting algorithms this side of the missisipi
 
 Authors: Connor Wind, Peter Torrente
+
+
+PokerSort
+Sort like texas hold em drawing five cards from deck and putting the lowest first place into a new deck. 
+
+NumberSort
+Number by number sort
+
+Slow Sort
+http://www.mipmip.org/tidbits/pasa.pdf
+
+Miracle Sort/Bitflip sort
+Keeps on checking if the Array is sorted until it is magically sorted
+
